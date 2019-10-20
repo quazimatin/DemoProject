@@ -89,6 +89,7 @@ public class SalesReceipt{
 			System.out.println("NetAmountPays                 : "+ netAmountPay);
 
 			System.out.println("***************************************************");
+			System.out.println("******************ARIF AND QUAZI*********************************");
 			
 
 		}
